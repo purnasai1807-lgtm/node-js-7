@@ -1,4 +1,4 @@
-# Experiment 7: Shopping Cart Servlet Controller
+Experiment 7: Shopping Cart Servlet Controller
 
 ## Aim
 
